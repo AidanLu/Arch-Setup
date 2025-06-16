@@ -22,4 +22,3 @@
 
 ## Images: 
 
-![First Example](/Pictures/Screenshots/Example_Setup_1.png)
