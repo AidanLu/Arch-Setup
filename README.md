@@ -4,6 +4,7 @@
 
 - Set a command to change cycle wallpapers + corresponding themes
 - Have different wallpaper + theme depending on current desktop
+- Animated wallpapers (maybe?)
 
 ## Things to install: 
 
