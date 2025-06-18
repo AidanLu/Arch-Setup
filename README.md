@@ -6,7 +6,7 @@
 - Have different wallpaper + theme depending on current desktop
 - Animated wallpapers (maybe?)
 
-## Things to install: 
+## Ricing: 
 
 - Wallpaper:
   - hyprpaper
@@ -21,11 +21,11 @@
   - hyprlock
   - swaylock
 - Menu:
-  - Rofi
+  - rofi
 - Idle:
-  - Hypridle
+  - hypridle
 - Theme:
-  - Pywal
+  - pywal
 - Logout menu:
   - wlogout
 - Audio visualizer:
@@ -38,6 +38,14 @@
 - iwmenu (Network management)
 - blueman-manager (Bluetooth management)
 - pavucontrol (Audio control)
+
+## Things to install + set up:
+
+- chrome (maybe firefox)
+- vscode (+python, web dev stuff)
+- spotify
+- pdf viewer
+- latex
 
 ## Images: 
 
