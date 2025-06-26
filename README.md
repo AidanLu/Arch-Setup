@@ -5,6 +5,7 @@
 - Set a command to change cycle wallpapers + corresponding themes
 - Have different wallpaper + theme depending on current desktop
 - Animated wallpapers (maybe?)
+- Install all the packages and make sure they work
 
 ## Ricing: 
 
@@ -14,24 +15,22 @@
   - waybar
 - Notifications:
   - dunst
-  - swaync
 - Clipboard manager:
   - cliphist
 - Lock screen:
   - hyprlock
-  - swaylock
 - Menu:
   - rofi
 - Idle:
   - hypridle
 - Theme:
-  - pywal
+  - pywal16
 - Logout menu:
   - wlogout
 - Audio visualizer:
   - cava
 - Other stuff:
-  - krabby (pokemon display)
+  - pokemon-colorscripts
 
 ## System tools:
 
